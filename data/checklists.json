@@ -1,0 +1,58 @@
+{
+  "checklists": [
+    {
+      "name": "ISO 9001 - Default",
+      "standard": "ISO 9001",
+      "items": [
+        {
+          "id": "9001-1",
+          "text": "Existe un proceso documentado de gestión de la calidad",
+          "weight": 3
+        },
+        {
+          "id": "9001-2",
+          "text": "Se realizan revisiones de desempeño periódicas",
+          "weight": 2
+        },
+        {
+          "id": "9001-3",
+          "text": "Se mide la satisfacción del cliente",
+          "weight": 2
+        },
+        {
+          "id": "9001-4",
+          "text": "Los procesos cuentan con indicadores definidos",
+          "weight": 3
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "name": "ISO 14001 - Default",
+      "standard": "ISO 14001",
+      "items": [
+        {
+          "id": "14001-1",
+          "text": "Existe política ambiental documentada",
+          "weight": 3
+        },
+        {
+          "id": "14001-2",
+          "text": "Se identifican aspectos e impactos ambientales",
+          "weight": 3
+        },
+        {
+          "id": "14001-3",
+          "text": "Hay controles operacionales para riesgos ambientales",
+          "weight": 2
+        },
+        {
+          "id": "14001-4",
+          "text": "Se registran no conformidades ambientales",
+          "weight": 2
+        }
+      ],
+      "version": "1.0"
+    }
+  ]
+}
