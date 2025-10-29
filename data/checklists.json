@@ -1,4 +1,566 @@
-{
+{{
+  "checklists": [
+    {
+      "name": "ISO 9001 - Completo (parafraseado)",
+      "standard": "ISO 9001",
+      "items": [
+        {
+          "id": "9001-4.1-1",
+          "text": "Se ha definido el alcance del sistema de gestión de la calidad (SGC) y sus límites",
+          "weight": 2
+        },
+        {
+          "id": "9001-4.1-2",
+          "text": "Se comprenden cuestiones internas y externas que afectan al SGC",
+          "weight": 2
+        },
+        {
+          "id": "9001-4.1-3",
+          "text": "Se mantienen partes interesadas y sus necesidades identificadas y actualizadas",
+          "weight": 2
+        },
+        {
+          "id": "9001-4.2-1",
+          "text": "Se identifican requisitos aplicables de las partes interesadas pertinentes",
+          "weight": 1
+        },
+        {
+          "id": "9001-4.2-2",
+          "text": "Se revisan cambios en expectativas de partes interesadas con periodicidad definida",
+          "weight": 1
+        },
+        {
+          "id": "9001-4.3-1",
+          "text": "El alcance del SGC está documentado y disponible",
+          "weight": 2
+        },
+        {
+          "id": "9001-4.3-2",
+          "text": "El alcance considera productos/servicios, ubicaciones y actividades relevantes",
+          "weight": 2
+        },
+        {
+          "id": "9001-4.4-1",
+          "text": "Se han mapeado procesos, interacciones, entradas y salidas",
+          "weight": 3
+        },
+        {
+          "id": "9001-4.4-2",
+          "text": "Se establecen criterios y métodos de control para procesos del SGC",
+          "weight": 3
+        },
+        {
+          "id": "9001-4.4-3",
+          "text": "Se asignan responsabilidades y autoridades de procesos",
+          "weight": 3
+        },
+        {
+          "id": "9001-4.4-4",
+          "text": "Se evalúan y mejoran procesos de manera continua",
+          "weight": 3
+        },
+        {
+          "id": "9001-5.1-1",
+          "text": "La alta dirección demuestra liderazgo y compromiso con el SGC",
+          "weight": 3
+        },
+        {
+          "id": "9001-5.1-2",
+          "text": "Se asegura integración del SGC con procesos de negocio",
+          "weight": 3
+        },
+        {
+          "id": "9001-5.1-3",
+          "text": "Se promueve enfoque al cliente dentro de la organización",
+          "weight": 3
+        },
+        {
+          "id": "9001-5.2-1",
+          "text": "Existe política de la calidad documentada, comunicada y aplicada",
+          "weight": 2
+        },
+        {
+          "id": "9001-5.2-2",
+          "text": "La política es apropiada al propósito y proporciona marco para objetivos",
+          "weight": 2
+        },
+        {
+          "id": "9001-5.2-3",
+          "text": "La política está disponible para partes interesadas pertinentes",
+          "weight": 2
+        },
+        {
+          "id": "9001-5.3-1",
+          "text": "Se definen responsabilidades y autoridades para roles clave del SGC",
+          "weight": 2
+        },
+        {
+          "id": "9001-5.3-2",
+          "text": "Se comunica la importancia de cumplir requisitos del SGC",
+          "weight": 2
+        },
+        {
+          "id": "9001-6.1-1",
+          "text": "Se identifican riesgos y oportunidades para procesos del SGC",
+          "weight": 3
+        },
+        {
+          "id": "9001-6.1-2",
+          "text": "Se planifican acciones para abordar riesgos y oportunidades",
+          "weight": 3
+        },
+        {
+          "id": "9001-6.1-3",
+          "text": "Se evalúa la eficacia de las acciones implementadas",
+          "weight": 3
+        },
+        {
+          "id": "9001-6.2-1",
+          "text": "Existen objetivos de calidad medibles y alineados con la política",
+          "weight": 2
+        },
+        {
+          "id": "9001-6.2-2",
+          "text": "Se planifican recursos, responsables y plazos para alcanzar objetivos",
+          "weight": 2
+        },
+        {
+          "id": "9001-6.2-3",
+          "text": "Se monitorea el progreso y se actualizan planes cuando aplica",
+          "weight": 2
+        },
+        {
+          "id": "9001-6.3-1",
+          "text": "Los cambios del SGC se planifican y controlan para mantener integridad",
+          "weight": 2
+        },
+        {
+          "id": "9001-6.3-2",
+          "text": "Se evalúan impactos de cambios antes de su implementación",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.1-1",
+          "text": "Se determinan y proporcionan recursos necesarios (personas, infraestructura)",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.1-2",
+          "text": "Se mantiene ambiente adecuado para la operación de procesos",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.1-3",
+          "text": "Se gestionan recursos de seguimiento y medición cuando aplican",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.1-4",
+          "text": "Se mantiene conocimiento organizacional y su acceso",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.2-1",
+          "text": "El personal es competente con base en educación, formación o experiencia",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.2-2",
+          "text": "Se conservan registros de competencia y se actúa ante brechas detectadas",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.3-1",
+          "text": "La organización asegura toma de conciencia sobre política, objetivos y contribución individual",
+          "weight": 1
+        },
+        {
+          "id": "9001-7.3-2",
+          "text": "Se comunica la importancia de cumplir con el SGC y resultados esperados",
+          "weight": 1
+        },
+        {
+          "id": "9001-7.4-1",
+          "text": "Las comunicaciones internas y externas del SGC están planificadas (qué, cuándo, quién)",
+          "weight": 1
+        },
+        {
+          "id": "9001-7.5-1",
+          "text": "La información documentada del SGC está controlada y disponible",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.5-2",
+          "text": "Se controlan la creación, revisión, aprobación y cambios de documentos",
+          "weight": 2
+        },
+        {
+          "id": "9001-7.5-3",
+          "text": "Se controlan y protegen los registros",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.1-1",
+          "text": "Se planifica, implementa y controla la producción y provisión de servicios",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.1-2",
+          "text": "Se establecen criterios para procesos y aceptación de productos/servicios",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.1-3",
+          "text": "Se conserva información documentada como evidencia de conformidad",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.2-1",
+          "text": "Se determinan requisitos del cliente y legales aplicables antes de compromisos",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.2-2",
+          "text": "Se revisan requisitos y se resuelven diferencias antes de aceptar pedidos",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.2-3",
+          "text": "Se establecen controles para comunicación con el cliente",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.3-1",
+          "text": "Se gestiona el diseño y desarrollo cuando aplica (planificación, entradas, controles, salidas)",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.3-2",
+          "text": "Se realizan verificaciones y validaciones proporcionales al riesgo",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.3-3",
+          "text": "Se controlan cambios del diseño y desarrollo",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.4-1",
+          "text": "Se controlan procesos, productos y servicios suministrados externamente",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.4-2",
+          "text": "Se definen criterios de evaluación y reevaluación de proveedores",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.4-3",
+          "text": "Se verifica que las compras cumplen los requisitos especificados",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.5-1",
+          "text": "Se controla la producción/prestación de servicios (instrucciones, equipos, calificaciones)",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.5-2",
+          "text": "Se implementa identificación y trazabilidad cuando es requerido",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.5-3",
+          "text": "Se protege la propiedad del cliente/proveedor externo",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.5-4",
+          "text": "Se preserva el producto durante procesamiento y entrega",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.5-5",
+          "text": "Se implementan actividades post-entrega cuando aplican",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.6-1",
+          "text": "Se implementa liberación de productos/servicios con criterios definidos y autoridad",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.6-2",
+          "text": "Se conserva evidencia de la conformidad con criterios de aceptación",
+          "weight": 2
+        },
+        {
+          "id": "9001-8.7-1",
+          "text": "Se controla la salida no conforme para prevenir uso o entrega no intencionada",
+          "weight": 3
+        },
+        {
+          "id": "9001-8.7-2",
+          "text": "Se toman acciones de corrección y se conserva evidencia de disposiciones",
+          "weight": 3
+        },
+        {
+          "id": "9001-9.1-1",
+          "text": "Se realiza seguimiento, medición, análisis y evaluación del SGC",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.1-2",
+          "text": "Se evalúa la satisfacción del cliente",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.1-3",
+          "text": "Se analizan datos para mejorar desempeño del SGC",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.2-1",
+          "text": "Se planifican y ejecutan auditorías internas a intervalos programados",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.2-2",
+          "text": "Se comunican resultados y se realizan correcciones y acciones correctivas",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.2-3",
+          "text": "Se conserva evidencia de la ejecución de auditorías",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.3-1",
+          "text": "La alta dirección realiza revisión por la dirección a intervalos planificados",
+          "weight": 2
+        },
+        {
+          "id": "9001-9.3-2",
+          "text": "Se consideran entradas y se registran salidas/decisiones para el SGC",
+          "weight": 2
+        },
+        {
+          "id": "9001-10.1-1",
+          "text": "Se identifican oportunidades de mejora y se implementan mejoras continuas",
+          "weight": 2
+        },
+        {
+          "id": "9001-10.2-1",
+          "text": "Se gestionan no conformidades y acciones correctivas de forma eficaz",
+          "weight": 3
+        },
+        {
+          "id": "9001-10.2-2",
+          "text": "Se evalúa la eficacia de las acciones tomadas",
+          "weight": 3
+        },
+        {
+          "id": "9001-10.3-1",
+          "text": "Se mejora continuamente la idoneidad, adecuación y eficacia del SGC",
+          "weight": 2
+        }
+      ],
+      "version": "1.1"
+    },
+    {
+      "name": "ISO 14001 - Completo (parafraseado)",
+      "standard": "ISO 14001",
+      "items": [
+        {
+          "id": "14001-4.1-1",
+          "text": "Se determinan cuestiones internas y externas relacionadas con el SGA",
+          "weight": 2
+        },
+        {
+          "id": "14001-4.1-2",
+          "text": "Se mantiene alcance del sistema de gestión ambiental (SGA) actualizado",
+          "weight": 2
+        },
+        {
+          "id": "14001-4.2-1",
+          "text": "Se identifican partes interesadas y se comprenden sus necesidades ambientales relevantes",
+          "weight": 1
+        },
+        {
+          "id": "14001-4.3-1",
+          "text": "El alcance del SGA está definido considerando actividades, productos y servicios",
+          "weight": 2
+        },
+        {
+          "id": "14001-4.3-2",
+          "text": "Se comunica el alcance a las partes pertinentes",
+          "weight": 2
+        },
+        {
+          "id": "14001-4.4-1",
+          "text": "Se han establecido procesos necesarios del SGA y sus interacciones",
+          "weight": 2
+        },
+        {
+          "id": "14001-5.1-1",
+          "text": "La alta dirección demuestra liderazgo y compromiso con el SGA",
+          "weight": 3
+        },
+        {
+          "id": "14001-5.1-2",
+          "text": "Se asegura disponibilidad de recursos necesarios para el SGA",
+          "weight": 3
+        },
+        {
+          "id": "14001-5.2-1",
+          "text": "Existe política ambiental apropiada al contexto y riesgos",
+          "weight": 2
+        },
+        {
+          "id": "14001-5.2-2",
+          "text": "La política incluye compromisos de protección del medio ambiente y cumplimiento",
+          "weight": 2
+        },
+        {
+          "id": "14001-5.2-3",
+          "text": "La política está comunicada y disponible",
+          "weight": 2
+        },
+        {
+          "id": "14001-5.3-1",
+          "text": "Se asignan responsabilidades y autoridades para roles del SGA",
+          "weight": 2
+        },
+        {
+          "id": "14001-6.1-1",
+          "text": "Se determinan aspectos ambientales, impactos y criterios de significancia",
+          "weight": 3
+        },
+        {
+          "id": "14001-6.1-2",
+          "text": "Se identifican requisitos legales y otros requisitos aplicables",
+          "weight": 3
+        },
+        {
+          "id": "14001-6.1-3",
+          "text": "Se planifican acciones para abordar riesgos y oportunidades",
+          "weight": 3
+        },
+        {
+          "id": "14001-6.2-1",
+          "text": "Existen objetivos ambientales medibles y coherentes con la política",
+          "weight": 2
+        },
+        {
+          "id": "14001-6.2-2",
+          "text": "Se planifican medios, responsables y plazos para alcanzarlos",
+          "weight": 2
+        },
+        {
+          "id": "14001-6.2-3",
+          "text": "Se evalúa el progreso hacia los objetivos",
+          "weight": 2
+        },
+        {
+          "id": "14001-7.1-1",
+          "text": "Se determinan y proporcionan recursos para el SGA",
+          "weight": 2
+        },
+        {
+          "id": "14001-7.1-2",
+          "text": "Se asegura competencia del personal en temas ambientales",
+          "weight": 2
+        },
+        {
+          "id": "14001-7.1-3",
+          "text": "Se promueve la toma de conciencia sobre obligaciones de cumplimiento",
+          "weight": 2
+        },
+        {
+          "id": "14001-7.4-1",
+          "text": "Se planifican comunicaciones internas y externas ambientales (qué, cuándo, quién)",
+          "weight": 1
+        },
+        {
+          "id": "14001-7.5-1",
+          "text": "La información documentada del SGA está disponible y controlada",
+          "weight": 2
+        },
+        {
+          "id": "14001-7.5-2",
+          "text": "Se controlan los cambios y se protegen los registros ambientales",
+          "weight": 2
+        },
+        {
+          "id": "14001-8.1-1",
+          "text": "Se planifican y controlan operaciones asociadas a aspectos significativos",
+          "weight": 3
+        },
+        {
+          "id": "14001-8.1-2",
+          "text": "Se establecen controles operacionales y criterios de operación",
+          "weight": 3
+        },
+        {
+          "id": "14001-8.1-3",
+          "text": "Se contempla la perspectiva de ciclo de vida cuando aplica",
+          "weight": 3
+        },
+        {
+          "id": "14001-8.2-1",
+          "text": "Se preparan y responden ante emergencias ambientales (planes, simulacros)",
+          "weight": 3
+        },
+        {
+          "id": "14001-9.1-1",
+          "text": "Se realiza seguimiento y medición de parámetros ambientales pertinentes",
+          "weight": 2
+        },
+        {
+          "id": "14001-9.1-2",
+          "text": "Se evalúa el cumplimiento legal regularmente",
+          "weight": 2
+        },
+        {
+          "id": "14001-9.1-3",
+          "text": "Se analiza información para mejorar desempeño ambiental",
+          "weight": 2
+        },
+        {
+          "id": "14001-9.2-1",
+          "text": "Se planifican auditorías internas del SGA a intervalos definidos",
+          "weight": 2
+        },
+        {
+          "id": "14001-9.2-2",
+          "text": "Se comunican resultados y se toman acciones necesarias",
+          "weight": 2
+        },
+        {
+          "id": "14001-9.3-1",
+          "text": "La dirección realiza revisión del SGA con entradas y salidas documentadas",
+          "weight": 2
+        },
+        {
+          "id": "14001-10.1-1",
+          "text": "Se implementan oportunidades de mejora del desempeño ambiental",
+          "weight": 2
+        },
+        {
+          "id": "14001-10.2-1",
+          "text": "Se gestionan no conformidades ambientales y acciones correctivas",
+          "weight": 3
+        },
+        {
+          "id": "14001-10.2-2",
+          "text": "Se verifica la eficacia de las acciones adoptadas",
+          "weight": 3
+        }
+      ],
+      "version": "1.1"
+    }
+  ]
+}
   "checklists": [
     {
       "name": "ISO 9001 - Default",
